@@ -1,1 +1,2 @@
-# python-for-dotnet-devs-ndc-oslo-2016
+# Python for .NET Devs
+
