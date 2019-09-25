@@ -1,7 +1,8 @@
 # Python: An Amazing Second Language for .NET Developers
 
-Presented at [NDC Oslo 2016](http://ndcoslo.com/talk/python-an-amazing-second-language-for-net-developers/)
- by Michael Kennedy.
+Presented at **NDC Oslo 2016** by Michael Kennedy.
+
+You can find the [recording on vimeo](https://vimeo.com/171319736).
  
 ## Abstract
 
